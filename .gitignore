@@ -1,6 +1,9 @@
 # macOS
 .DS_Store
-.fseventsd/
+.AppleDouble
+.LSOverride
+._*
+.fseventsd
 
 # Claude Code
 .claude/
